@@ -1,2 +1,2 @@
 [IDZ]
-ec2-34-244-162-82.eu-west-1.compute.amazonaws.com ansible_ssh_user=ubuntu
+#ec2-34-244-162-82.eu-west-1.compute.amazonaws.com ansible_ssh_user=ubuntu
